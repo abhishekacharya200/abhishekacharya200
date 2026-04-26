@@ -15,15 +15,15 @@
     <a href="mailto:abhsheake@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://github.com/javascript1415">
+    <a href="https://github.com/abhishekacharya200">
       <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
   </p>
   
   <!-- Profile Stats -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=javascript1415&color=6366F1&style=flat-square&label=Profile+Views" alt="Profile views" />
-    <img src="https://img.shields.io/github/followers/javascript1415?label=Followers&style=flat-square&color=10B981&logo=github" alt="Followers" />
+    <img src="https://komarev.com/ghpvc/?username=abhishekacharya200&color=6366F1&style=flat-square&label=Profile+Views" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/abhishekacharya200?label=Followers&style=flat-square&color=10B981&logo=github" alt="Followers" />
     <img src="https://img.shields.io/badge/Available_for_Hire-Yes-10B981?style=flat-square" alt="Available for hire" />
   </p>
 
@@ -173,7 +173,7 @@ CI/CD Pipelines
 <div align="center">
   
 
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=javascript1415&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekacharya200&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
 
 </div>
 
@@ -253,7 +253,7 @@ Building intelligent features for web applications
 
 Complete platform with cart, payments & order management
 
-[![Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/javascript1415/land-renting-ststem)
+[![Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/abhishekacharya200/land-renting-ststem)
 
 `Django` `PostgreSQL` `REST API`
 
@@ -264,7 +264,7 @@ Complete platform with cart, payments & order management
 
 Secure credential storage with encryption
 
-[![Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/javascript1415/password-manager)
+[![Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/abhishekacharya200/password-manager)
 
 `Python` `Encryption` `Django`
 
@@ -275,7 +275,7 @@ Secure credential storage with encryption
 
 Personal finance management app
 
-[![Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/javascript1415/daily_spend_bill)
+[![Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/abhishekacharya200/daily_spend_bill)
 
 `Django` `Charts` `Analytics`
 
@@ -299,7 +299,7 @@ Personal finance management app
 
 Task management with priorities and deadlines
 
-[![Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/javascript1415/todo_django)
+[![Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/abhishekacharya200/todo_django)
 
 `Django` `REST API` `CRUD`
 
@@ -310,7 +310,7 @@ Task management with priorities and deadlines
 
 Secure user authentication system
 
-[![Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/javascript1415/customauth)
+[![Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/abhishekacharya200/customauth)
 
 `Django` `JWT` `OAuth`
 
@@ -351,7 +351,7 @@ graph LR
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=javascript1415&theme=tokyo-night&hide_border=true&area=true&custom_title=📊%20Contribution%20Timeline" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekacharya200&theme=tokyo-night&hide_border=true&area=true&custom_title=📊%20Contribution%20Timeline" alt="Activity Graph" />
 
 </div>
 
@@ -409,8 +409,8 @@ graph LR
   <a href="mailto:abhsheake@gmail.com">
     <img src="https://img.shields.io/badge/Email-abhsheake@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/javascript1415">
-    <img src="https://img.shields.io/badge/GitHub-@javascript1415-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/abhishekacharya200">
+    <img src="https://img.shields.io/badge/GitHub-@abhishekacharya200-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://instagram.com/acharyabhishek48">
     <img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -435,7 +435,7 @@ graph LR
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
   
-  <sub>⭐ From [javascript1415](https://github.com/javascript1415) with ❤️</sub>
+  <sub>⭐ From [abhishekacharya200](https://github.com/abhishekacharya200) with ❤️</sub>
   
   **"Code is like humor. When you have to explain it, it's bad." – Cory House**
 
