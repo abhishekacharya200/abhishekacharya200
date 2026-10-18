@@ -16,10 +16,10 @@ Open to remote roles.
 
 | Project | What it is | Proof |
 |---|---|---|
-| [**Production RAG**](https://github.com/abhishekacharya200/Production__rag) | Document search and QA: hybrid dense and BM25 search in Qdrant, LLM reranking, per document access control, cited answers | nDCG@10 **0.795** on the public BEIR SciFact benchmark (dense only: 0.646, BM25: 0.667) |
-| [**Fixgate**](https://github.com/abhishekacharya200/Fixgate) | Agent that reproduces a GitHub issue in a sandbox, writes and checks a fix, and opens a PR only after a person approves the exact patch | Resolved **22 of 31** SWE-bench Verified issues (71%, partial run) at about $0.02 each |
+| **Production RAG** (private, code on request) | Document search and QA: hybrid dense and BM25 search in Qdrant, LLM reranking, per document access control, cited answers | nDCG@10 **0.795** on the public BEIR SciFact benchmark (dense only: 0.646, BM25: 0.667) |
+| **Fixgate** (private, code on request) | Agent that reproduces a GitHub issue in a sandbox, writes and checks a fix, and opens a PR only after a person approves the exact patch | Resolved **22 of 31** SWE-bench Verified issues (71%, partial run) at about $0.02 each |
 | [**vault2okf**](https://github.com/abhishekacharya200/vault2okf) | Converts Obsidian vaults into Open Knowledge Format bundles for AI agents, then validates and repairs them | Published on [PyPI](https://pypi.org/project/vault2okf/), with a GitHub Action and pre-commit hook |
-| [**RAG Gateway**](https://github.com/abhishekacharya200/RAG-Gateway) | Local server that speaks the OpenAI, Anthropic and Gemini APIs, for building and testing RAG apps | Used to run the Production RAG benchmark |
+| [**RAG Gateway**](https://github.com/abhishekacharya200/RAG-Gateway) | Local server that speaks the OpenAI, Anthropic and Gemini APIs, for building and testing RAG apps | Used to run the Production RAG benchmark through local OpenAI compatible endpoints |
 
 ### Open source contributions (merged)
 
